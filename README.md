@@ -25,13 +25,12 @@ Include information about
     >We created a phylogenetic tree using the DECIPHER package with the following code in R studio:
     >tree <- Treeline(alignment, method = “ML”, showplot = TRUE)
     
-- For each source of data, state which files/folders in the repository correspond to those data (so for example, the assembled reads are in t<#>_out directories and the raw sequencing reads are in [Andrea](https://github.com/aldretea118/BIO-410-Final-Project/tree/main/andrea)
+- The assembled reads are in t<#>_out directories and the raw sequencing reads are in [Andrea](https://github.com/aldretea118/BIO-410-Final-Project/tree/main/andrea)
   
 
 ## Results
 
 Here is phylogenetic tree
-(Insert the image, see the markdown cheat sheet for how to do that) 
 ![Phylogenetic Tree](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/Phylogenetic%20Tree.pdf)
 
 Explain
