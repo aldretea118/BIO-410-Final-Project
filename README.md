@@ -31,7 +31,7 @@ Include information about
 ## Results
 
 Here is phylogenetic tree
-![Phylogenetic Tree](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/Phylogenetic%20Tree.pdf)
+[Phylogenetic Tree](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/Phylogenetic%20Tree.pdf)
 
 Explain
 - which samples are clearly related to each other
