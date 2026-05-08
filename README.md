@@ -17,6 +17,7 @@ Include information about
 
 Here is phylogenetic tree
 (Insert the image, see the markdown cheat sheet for how to do that) 
+![ALT TEXT](filename)
 
 Explain
 - which samples are clearly related to each other
