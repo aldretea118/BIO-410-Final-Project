@@ -34,6 +34,7 @@ Here is phylogenetic tree
 
 Explain
 - From the phylogenetic tree, it appears that the samples that were most closely related to each other were:
-    > 3 & 10, 4 & 11, 9 & 12, 7 & 14, 5 & 12, 13 & 6, and lastly 8 & 1. 
+    > Group 1: 3 & 10, 4 & 11, 9 & 2
+    > Group 2: 7 & 14, 5 & 12, 13 & 6, 8 & 1. 
 - How many individuals did these 14 samples come from (probably) based on the phylogenetic tree
     >Based on the tree, it seems at those these samples came from 2 inidivudals, as there are two large branches on the tree. 
