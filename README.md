@@ -9,7 +9,7 @@ The purpose of this project was to create a phylogenic tree from 14 samples of z
 
 ## Methods
 - Sequencing reads (NGS next-generation sequencing)
-    >We sequenced 6 samples of [Zaire Ebola Virus](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/final_project.html)
+    >We sequenced 14 samples of [Zaire Ebola Virus](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/final_project.html)
     
 - Assembly using [MEGAHIT](https://github.com/voutcn/MEGAHIT)
     > In terminal the following code was run to utilized in terminal:
