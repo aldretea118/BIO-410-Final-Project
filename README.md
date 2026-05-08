@@ -8,11 +8,10 @@ This data consist of 6 samples from the organism Zaire Ebola Virus. This organis
 The purpose of this project was to create a phylogenic tree from 6 samples of zaire ebolavirus in order to determine the evolutionary relationships between the samples. 
 
 ## Methods
-Include information about 
 - Sequencing reads (NGS next-generation sequencing)
-    >We sequenced 6 samples of Zaire Ebola Virus
+    >We sequenced 6 samples of [Zaire Ebola Virus](
     
-- Assembly using MEGAHIT
+- Assembly using [MEGAHIT](https://github.com/voutcn/MEGAHIT)
     > In terminal the following code was run to utilized in terminal:
       >conda install -c bioconda megahit
       >megahit -1 sim_t1_1.fq -2 sim_t1_2.fq -o t1_out (changing t1 for each sample through 6) 
@@ -34,5 +33,6 @@ Here is phylogenetic tree
 [Phylogenetic Tree](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/Phylogenetic%20Tree.pdf)
 
 Explain
-- which samples are clearly related to each other
+- From the phylogenetic tree, it appears that the samples that were most closely related to each other were:
+    > 3 & 10, 4 & 11, 9 & 12, 7 & 14, 5 & 12, 13 & 6, and lastly 8 & 1. 
 - How many individuals did these 6 samples come from (probably) based on the phylogenetic tree 
