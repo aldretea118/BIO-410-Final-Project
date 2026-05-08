@@ -8,21 +8,21 @@ This data consist of 14 samples from the organism Zaire Ebola Virus. This organi
 The purpose of this project was to create a phylogenic tree from 14 samples of zaire ebolavirus in order to determine the evolutionary relationships between the samples. 
 
 ## Methods
-- Sequencing reads (NGS next-generation sequencing)
-    >We sequenced 14 samples of [Zaire Ebola Virus](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/final_project.html)
+- Sequencing reads (NGS next-generation sequencing):
+    - We sequenced 14 samples of [Zaire Ebola Virus](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/final_project.html)
     
 - Assembly using [MEGAHIT](https://github.com/voutcn/MEGAHIT)
-    > In terminal the following code was run to utilized in terminal:
-      >conda install -c bioconda megahit
-      >megahit -1 sim_t1_1.fq -2 sim_t1_2.fq -o t1_out (changing t1 for each sample through 6) 
-    >(https://www.anaconda.com/docs/getting-started/miniconda/install/mac-cli-install)
+    - In terminal the following code was run to utilized in terminal:
+      - conda install -c bioconda megahit
+      - megahit -1 sim_t1_1.fq -2 sim_t1_2.fq -o t1_out (changing t1 for each sample through 6) 
+    - (https://www.anaconda.com/docs/getting-started/miniconda/install/mac-cli-install)
 
 - Alighment using a package DECIPHER
-    >We aligned the raw data in folder sequences in R studio using package DECIPHER
+    - We aligned the raw data in folder sequences in R studio using package DECIPHER
 
 - Tree using ML method in a package DECIPHER
-    >We created a phylogenetic tree using the DECIPHER package with the following code in R studio:
-    >tree <- Treeline(alignment, method = “ML”, showplot = TRUE)
+    - We created a phylogenetic tree using the DECIPHER package with the following code in R studio:
+    - tree <- Treeline(alignment, method = “ML”, showplot = TRUE)
     
 - The assembled reads are in t<#>_out directories and the raw sequencing reads are in [Andrea](https://github.com/aldretea118/BIO-410-Final-Project/tree/main/andrea)
   
@@ -34,7 +34,7 @@ Here is phylogenetic tree
 
 Explain
 - From the phylogenetic tree, it appears that the samples that were most closely related to each other were:
-    > Group 1: 3 & 10, 4 & 11, 9 & 2
-    > Group 2: 7 & 14, 5 & 12, 13 & 6, 8 & 1. 
+    - Group 1: 3 & 10, 4 & 11, 9 & 2
+    - Group 2: 7 & 14, 5 & 12, 13 & 6, 8 & 1. 
 - How many individuals did these 14 samples come from (probably) based on the phylogenetic tree
-    >Based on the tree, it seems at those these samples came from 2 inidivudals, as there are two large branches on the tree. 
+    - Based on the tree, it seems at those these samples came from 2 inidivudals, as there are two large branches on the tree. 
