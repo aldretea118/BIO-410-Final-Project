@@ -1,8 +1,8 @@
 # BIO-410-Final-Project
 ## Background
 This data consist of 14 samples from the organism Zaire Ebola Virus. This organism is a prokaryote which is transmitted through humans and mammals.
-    -Citation:
-        > Grard G, Biek R, Tamfum JJ, Fair J, Wolfe N, Formenty P, Paweska J, Leroy E. Emergence of divergent Zaire Ebola Virus strains in Democratic Republic of the Congo in 2007 and 2008. J Infect Dis. 2011 Nov;204 Suppl 3(Suppl 3):S776-84. doi: 10.1093/infdis/jir364. PMID: 21987750; PMCID: PMC3218671.
+- Citation:
+      > Grard G, Biek R, Tamfum JJ, Fair J, Wolfe N, Formenty P, Paweska J, Leroy E. Emergence of divergent Zaire Ebola Virus strains in Democratic Republic of the Congo in 2007 and 2008. J Infect Dis. 2011 Nov;204 Suppl 3(Suppl 3):S776-84. doi: 10.1093/infdis/jir364. PMID: 21987750; PMCID: PMC3218671.
 
 ## Purpose
 The purpose of this project was to create a phylogenic tree from 14 samples of zaire ebolavirus in order to determine the evolutionary relationships between the samples. 
