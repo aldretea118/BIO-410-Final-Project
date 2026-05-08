@@ -19,7 +19,7 @@ Include information about
     >(https://www.anaconda.com/docs/getting-started/miniconda/install/mac-cli-install)
 
 - Alighment using a package DECIPHER
-    >We aligned the sequences in R studio using package DECIPHER
+    >We aligned the raw data  sequences in R studio using package DECIPHER
 
 - Tree using ML method in a package DECIPHER
     >We created a phylogenetic tree using the DECIPHER package with the following code in R studio:
