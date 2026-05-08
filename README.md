@@ -9,7 +9,7 @@ The purpose of this project was to create a phylogenic tree from 6 samples of za
 
 ## Methods
 - Sequencing reads (NGS next-generation sequencing)
-    >We sequenced 6 samples of [Zaire Ebola Virus](
+    >We sequenced 6 samples of [Zaire Ebola Virus](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/final_project.html)
     
 - Assembly using [MEGAHIT](https://github.com/voutcn/MEGAHIT)
     > In terminal the following code was run to utilized in terminal:
@@ -35,4 +35,5 @@ Here is phylogenetic tree
 Explain
 - From the phylogenetic tree, it appears that the samples that were most closely related to each other were:
     > 3 & 10, 4 & 11, 9 & 12, 7 & 14, 5 & 12, 13 & 6, and lastly 8 & 1. 
-- How many individuals did these 6 samples come from (probably) based on the phylogenetic tree 
+- How many individuals did these 14 samples come from (probably) based on the phylogenetic tree
+    >Based on the tree, it seems at those these samples came from 2 inidivudals, as there are two large branches on the tree. 
