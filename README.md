@@ -15,7 +15,10 @@ The purpose of this project was to create a phylogenic tree from 14 samples of z
     - In terminal the following code was run to utilized in terminal:
       - [Conda](https://www.anaconda.com/docs/getting-started/miniconda/install/mac-cli-install) was installed initially
       - conda install -c bioconda megahit
-      - megahit -1 sim_t1_1.fq -2 sim_t1_2.fq -o t1_out (changing t1 for each sample through 6) 
+      - megahit -1 sim_t1_1.fq -2 sim_t1_2.fq -o t1_out (changing t1 for each sample through 6)
+      
+- Ran the following [R Script]([
+](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/R%20Script%20Final%20Project.docx)
 
 - Alighment using a package DECIPHER
     - We aligned the raw data in folder sequences in R studio using package DECIPHER
