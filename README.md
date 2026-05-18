@@ -19,10 +19,10 @@ The purpose of this project was to create a phylogenic tree from 14 samples of z
       
 - Ran the following [R Script](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/R%20Script%20Final%20Project.docx)
 
-- Alighment using a package DECIPHER
+- Alighment was achieved using a R Script package DECIPHER
     - We aligned the raw data in folder sequences in R studio using package DECIPHER
 
-- Tree using ML method in a package DECIPHER
+- A phylogenetic tree was created using ML method in package DECIPHER
     - We created a phylogenetic tree using the DECIPHER package with the following code in R studio:
     - tree <- Treeline(alignment, method = “ML”, showplot = TRUE)
     
@@ -34,7 +34,7 @@ The purpose of this project was to create a phylogenic tree from 14 samples of z
 Here is phylogenetic tree
 [Phylogenetic Tree](https://github.com/aldretea118/BIO-410-Final-Project/blob/main/Phylogenetic%20Tree.pdf)
 
-Explain
+Analysis of tree:
 - From the phylogenetic tree, it appears that the samples that were most closely related to each other were:
     - Group 1: 3 & 10, 4 & 11, 9 & 2
     - Group 2: 7 & 14, 5 & 12, 13 & 6, 8 & 1. 
